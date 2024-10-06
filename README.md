@@ -8,19 +8,22 @@
 # 💼 What I Do
 > I love working on AI-powered applications and am always excited to collaborate on innovative projects. I'm particularly interested in:
 
-> Front-end development
-> Artificial intelligence
-> Mobile application development
-> Computer vision
-# 💞️ Collaboration
+1. Front-end development
+2. Artificial intelligence
+3. Mobile application development
+4. Computer vision
+# ❣️ Collaboration
 I'm looking to collaborate on projects that merge AI with interactive applications—whether it's emotion recognition, virtual drawing tools, or voice assistants. If you have a cool project in mind, let’s connect!
 
 # 📫 How to Reach Me
-> Email:srisridasari@gmail.com
-> LinkedIn: https://www.linkedin.com/in/sri-sai-sridhar-dasari-0688b8232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-> GitHub: Right here!
-😄 Pronouns
+1. Email:srisridasari@gmail.com
+2. LinkedIn: https://www.linkedin.com/in/sri-sai-sridhar-dasari-0688b8232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+3. GitHub: Right here!
+#  Pronouns
 > He/Him
 
-⚡ Fun Fact
+#⚡ Fun Fact
 > I’m a big fan of anime, and in my free time, I sketch my favorite characters.
+
+# 📄Resume
+[Sridhar Resume.pdf](https://github.com/user-attachments/files/17270296/Sridhar.Resume.pdf)
