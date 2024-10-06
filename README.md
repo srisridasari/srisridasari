@@ -22,7 +22,7 @@ I'm looking to collaborate on projects that merge AI with interactive applicatio
 #  Pronouns
 > He/Him
 
-#⚡ Fun Fact
+# ⚡Fun Fact
 > I’m a big fan of anime, and in my free time, I sketch my favorite characters.
 
 # 📄Resume
