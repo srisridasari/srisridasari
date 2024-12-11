@@ -26,4 +26,4 @@ I'm looking to collaborate on projects that merge AI with interactive applicatio
 > I’m a big fan of anime, and in my free time, I sketch my favorite characters.
 
 # 📄Resume
-[Sridhar Resume.pdf](https://github.com/user-attachments/files/17270296/Sridhar.Resume.pdf)
+[Sridhar's  Resume.pdf](https://github.com/user-attachments/files/18094528/Sridhar.s.LaTeX.Resume.pdf)
