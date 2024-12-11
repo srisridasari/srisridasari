@@ -17,7 +17,7 @@ I'm looking to collaborate on projects that merge AI with interactive applicatio
 
 # 📫 How to Reach Me
 1. Email:srisridasari@gmail.com
-2. LinkedIn: https://www.linkedin.com/in/sri-sai-sridhar-dasari-0688b8232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+2. LinkedIn: https://www.linkedin.com/in/srisaisridhar
 3. GitHub: Right here!
 #  Pronouns
 > He/Him
